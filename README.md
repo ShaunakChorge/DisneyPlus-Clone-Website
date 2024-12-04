@@ -37,6 +37,10 @@ Ready to embark on your Disney+ adventure? Follow these steps to get started:
 ## 🎉 Usage
 Explore the enchanting world of Disney+ by clicking on the navigation links. Browse through a variety of movies and shows, and don't forget to hover over the viewer sections for exciting video previews! 🪄
 
+## 🎥 Demo
+![{28415828-4371-471C-977B-76D2FAD772E6}](https://github.com/user-attachments/assets/829e4280-1fb1-46b4-b00e-a2897fc8ad46)
+
+
 ## 🤝 Contributing
 Your ideas and contributions are what make this project shine! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Let's make this project even more magical together! 🌟
 
